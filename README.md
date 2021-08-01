@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jadenhensley
 - 👀 I’m interested in fullstack development and pragmatic software that helps people live better lives.
-- 🌱 I’m currently learning Computer Science, and bridging the gap of becoming a professional developer.
-- 🎮 I occasionally develop small games for fun, feel free to contact me.
+- 🌱 I’m currently learning computer science, web development, and grinding to one day become a professional developer.
 
 <!---
 jadenhensley/jadenhensley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
