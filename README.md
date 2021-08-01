@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadenhensley
-- 👀 I’m interested in fullstack development and clean, pragmatic software.
-- 🌱 I’m currently learning Computer Science, C++, and Android / Frontend Development.
+- 👀 I’m interested in fullstack development and pragmatic software that helps people live better lives.
+- 🌱 I’m currently learning Computer Science, and bridging the gap of becoming a professional developer.
 - 🎮 I occasionally develop small games for fun, feel free to contact me.
 
 <!---
