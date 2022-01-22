@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jadenhensley
-- 👀 I’m interested in pragmatic software that helps people live better lives.
-- 🌱 I’m currently learning computer science, development, and grinding to one day become a professional developer.
+- 👀 I’m interested in pragmatic software.
+- 🌱 I’m currently focusing on game development.
 
 <!---
 jadenhensley/jadenhensley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
